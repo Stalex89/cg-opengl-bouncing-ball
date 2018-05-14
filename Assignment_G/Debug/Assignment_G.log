@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment_G.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  AssignmentG_task1.cpp
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(49): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(86): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(86): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(87): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(87): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(88): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(88): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(105): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(105): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(106): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(106): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(107): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(107): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\computer science\05_semestr\introduction to computer graphics\lab\assignment_g_task1\assignment_g\assignmentg_task1.cpp(131): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Assignment_G.vcxproj -> D:\Computer Science\05_Semestr\Introduction to Computer Graphics\Lab\Assignment_G_task1\Debug\Assignment_G_task1.exe
